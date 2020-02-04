@@ -1,3 +1,3 @@
-# calculator-angular8
+# Calculator in Angular8
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/calculator-angular8)
+[Click to check](https://calculator-angular8.stackblitz.io)
